@@ -1,7 +1,7 @@
 # codesoft-1
 **COMPANY**: CODSOFT
 
-**NAME**: HARINI.M
+**NAME**: Gowsick.S
 
 **INTERN ID**: CS25RY91544
 
